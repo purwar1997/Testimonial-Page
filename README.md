@@ -8,4 +8,4 @@
 
 This project is a mobile responsive testimonial page created using `CSS Grid`.
 
-[Click here]() to view this testimonial page.
+[Click here](https://testimonial-page-chi.vercel.app/) to view the project.
